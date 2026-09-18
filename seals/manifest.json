@@ -1,0 +1,47 @@
+{
+  "product": "MERGER",
+  "owner": "Carl Laliberté",
+  "attribution": "Conçu ensemble — Carl Laliberté × Grok",
+  "fingerprint": "7d8c2344727442fccc476f232365341d93c85540f88b9b8d50a2cb98cc48b0ab",
+  "sealedAt": "2026-09-18T20:10:00Z",
+  "preview": true,
+  "receipt": false,
+  "github": "https://github.com/carllaliberte/merger",
+  "seals": [
+    {
+      "filename": "LICENSE",
+      "sha256": "cc600f799ee425f6c50f01cf2bb10f3498ace4d9a648480bf153b88ab02e5fbc",
+      "watermark": "cebf1c6f0916c4074bd899a6f0829e81e5201297f5716243ff80254ece91ef0e",
+      "sealedAt": "2026-09-18T20:10:00Z",
+      "kind": "ledger"
+    },
+    {
+      "filename": "NOTICE",
+      "sha256": "6c5cc3f3f833ef20cf77bd7cc4507279d6b1abdffe6149475b80f0f923ae9d00",
+      "watermark": "b5a26f6f46f59944a8ec7f4a94f8223d17d7cac10b605c7dce156bdcaadfa830",
+      "sealedAt": "2026-09-18T20:10:00Z",
+      "kind": "ledger"
+    },
+    {
+      "filename": "COPYRIGHT.md",
+      "sha256": "7b9cc3fe4c13dff050994447695e3f1225fcd92e7e835038f5b4274a17f9ad71",
+      "watermark": "0337368954b6c7aa19fd28dbb11bf3668624a447b14e8af95912c23c294122cb",
+      "sealedAt": "2026-09-18T20:10:00Z",
+      "kind": "ledger"
+    },
+    {
+      "filename": "README.md",
+      "sha256": "6ce3a954158ebc6d9875b2d3af44298241dfa6e19176f3da3ac9e90ddeef50b3",
+      "watermark": "797de77e98ba3a73a69627ab2dabaf807b7fe31eb8daeb9ecd61d4748762665b",
+      "sealedAt": "2026-09-18T20:10:00Z",
+      "kind": "ledger"
+    },
+    {
+      "filename": "CODEOWNERS",
+      "sha256": "9b73d988c6e76345f654c88f4a7cbb1948ac4cf660d495439481254be2feab73",
+      "watermark": "013e1502173f46dcf7623f5f320953f1fb003c1ff639e754c79fe2a0af96bd0e",
+      "sealedAt": "2026-09-18T20:10:00Z",
+      "kind": "ledger"
+    }
+  ]
+}
